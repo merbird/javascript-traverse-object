@@ -1,0 +1,17 @@
+{
+   "name": "objecttraverse",
+   "version": "1.0.0",
+   "description": "Javascript code to loop through an object",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "compile": "babel src/js --out-dir dist --source-maps --watch"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "babel-cli": "^6.26.0",
+      "babel-preset-env": "^1.7.0"
+   }
+}
